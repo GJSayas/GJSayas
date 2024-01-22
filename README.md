@@ -1,7 +1,7 @@
 ### Helloo everyone, I'm Getsie!🌻✨
 
-<h3 align="center">One of many students, but the happiest to die learning | Stormy Mind ☔️</h3>
-
+<h3 align="center">One of many students, but the happiest to die learning. | Stormy Mind ☔️</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc3aDNnZXNnNjhnY2cxM3FpY3BzMHE5dmc5cXF6c2JxYzcydmM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoJlCBK93oU2CUUA8J/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GJSayas&label=Profile%20views&color=0e75b6&style=flat" alt="GJSayas" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GJSayas" alt="GJSayas" /></a> </p>
 
